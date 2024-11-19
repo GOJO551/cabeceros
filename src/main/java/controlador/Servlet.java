@@ -36,7 +36,7 @@ public class Servlet extends HttpServlet {
         out.print("<!DOCTYPE html>");
         out.println("<html>");
         out.println("<head>");
-        out.println("<meta charset=\"utf-8\">");
+        out.println("<meta charset='UTF-8'>");
         out.println("<title>Cabeceros</title>");
         out.println("</head>");
         out.println("<body>");
